@@ -1,0 +1,176 @@
+id,Restaurant,Adress,Time,Price,City
+1,Cơm Tấm Thành Công - Võ Văn Kiệt,"TK 14/5 Võ Văn Kiệt, P. Cầu Kho, Quận 1, TP. HCM",00:00 - 23:59,28.000 - 65.000,HCM
+2,"Rovis - Coffee, Sinh Tố & Nước Ép","132/1C Mã Lò, P. Bình Trị Đông A, Bình Tân, TP. HCM",Đã đóng,10.000 - 35.000,HCM
+3,Ẩm Thực Thái Lan & Hàn Quốc - Bếp Nhà BBQ,"844 Võ Văn Kiệt, P. 5, Quận 5, TP. HCM",15:00 - 22:45,10.000 - 110.000,HCM
+4,Lão Ril - Bánh Tráng Trộn - Shop Online,"805/11 Phan Văn Trị, P. 7, Gò Vấp, TP. HCM",Đã đóng,15.000 - 80.000,HCM
+5,Ăn Vặt Hường Mụi - Shop Online,"206/16 Đường Số 20, P. 5, Gò Vấp, TP. HCM",Đã đóng,12.000 - 85.000,HCM
+6,Ròm - Tea & More,"1 Bông Sao, P. 5, Quận 8, TP. HCM",Đã đóng,18.000 - 35.000,HCM
+7,Gióng - Cà Phê - Lý Chính Thắng,"180 - 182 Lý Chính Thắng, P. 9, Quận 3, TP. HCM",Đã đóng,45.000 - 115.000,HCM
+8,Cô Siêu - Hủ Qua Cà Ớt - Shop Online,"258/19 Mai Xuân Thưởng, P. 2, Quận 6, TP. HCM",Đã đóng,6.000 - 60.000,HCM
+9,Vapu Food & More - Ăn Vặt,"819/11/10 Quang Trung, P. 12, Gò Vấp, TP. HCM",Đã đóng,10.000 - 230.000,HCM
+10,Lengkeng - Kem Kẹp Singapore Quận 7,"159 Đường Số 17, P. Tân Quy, Quận 7, TP. HCM",Đã đóng,25.000 - 25.000,HCM
+11,Farine - Bakery & Coffee,"412 Xô Viết Nghệ Tĩnh, P. 25, Bình Thạnh, TP. HCM",Đã đóng,35.000 - 70.000,HCM
+12,Mr.Fresh Coffee,"152 Nguyễn Văn Đậu, P. 7, Bình Thạnh, TP. HCM",Đã đóng,14.000 - 18.000,HCM
+13,Deju - Clean Eating & Fresh Drinking,"31 Đoàn Hồng Phước, P. Hoà Thạnh, Tân Phú, TP. HCM",Đã đóng,19.000 - 35.000,HCM
+14,Tiệm Ngọt - Trà Sữa & Cà Phê - Lâm Văn Bền,"94/8 Lâm Văn Bền, P. Tân Kiểng, Quận 7, TP. HCM",Đã đóng,15.000 - 25.000,HCM
+15,"Rovis - Trà Sữa, Nước Ép & Cafe Nguyên Chất","A1.20 Chung Cư Ruby Celadon, Hương Lộ 3, P. Sơn Kỳ, Tân Phú, TP. HCM",Đã đóng,13.000 - 35.000,HCM
+16,"Al Fresco's - Pizza, Mỳ Ý, Sườn, Steak Bò Bít Tết - Aeon Mall Bình Tân","T1 Tầng 3, Aeon Mall Bình Tân, 1 Đường Số 17A, P. Bình Trị Đông B, Bình Tân, TP. HCM",Đã đóng,80.000 - 695.000,HCM
+17,Lavi Tea - Trà Sữa & Trà,"21B Nguyễn Háo Vĩnh, P. Tân Quý, Tân Phú, TP. HCM",Đã đóng,15.000 - 35.000,HCM
+18,Gần Nhà - Coffee & Tea,"609/29 Lê Quang Định, P. 1, Gò Vấp, TP. HCM",Đã đóng,8.000 - 28.000,HCM
+19,Hồng Thanh - Milk Tea,"86 Nhất Chi Mai, P. 13, Tân Bình, TP. HCM",Đã đóng,10.000 - 25.000,HCM
+20,Bánh Tráng Chị Hạnh,"99/5 Đường Số 41, P. 6, Quận 4, TP. HCM",Đã đóng,5.000 - 35.000,HCM
+21,Pull Tea - Hùng Vương,"99 Hùng Vương, P. 4, Quận 5, TP. HCM",Đã đóng,10.000 - 60.000,HCM
+22,Shop KEM - Bánh Tráng Trộn & Ăn Vặt - Nguyễn Cửu Vân,"75/35 Nguyễn Cửu Vân, P. 17, Bình Thạnh, TP. HCM",Đã đóng,20.000 - 40.000,HCM
+23,Trà Sữa TA - Ngô Tất Tố,"91E Ngô Tất Tố, P. 22, Bình Thạnh, TP. HCM",Đã đóng,25.000 - 50.000,HCM
+24,Vedrenne - Tea & Coffee,"10 Nguyễn Cảnh Dị, P. 4, Tân Bình, TP. HCM",Đã đóng,29.000 - 49.000,HCM
+25,Tiệm Trà Choanh - Shop Online,"Tầng Trệt, Tòa Nhà Park 6B - Vinhomes Central Park, 720A Điện Biên Phủ, P. 22, Bình Thạnh, TP. HCM",Đã đóng,15.000 - 30.000,HCM
+26,Cơm Tấm Thành Công - Võ Văn Kiệt,"TK 14/5 Võ Văn Kiệt, P. Cầu Kho, Quận 1, TP. HCM",00:00 - 23:59,28.000 - 65.000,HCM
+27,"Rovis - Coffee, Sinh Tố & Nước Ép","132/1C Mã Lò, P. Bình Trị Đông A, Bình Tân, TP. HCM",Đã đóng,10.000 - 35.000,HCM
+28,Ẩm Thực Thái Lan & Hàn Quốc - Bếp Nhà BBQ,"844 Võ Văn Kiệt, P. 5, Quận 5, TP. HCM",15:00 - 22:45,10.000 - 110.000,HCM
+29,Lão Ril - Bánh Tráng Trộn - Shop Online,"805/11 Phan Văn Trị, P. 7, Gò Vấp, TP. HCM",Đã đóng,15.000 - 80.000,HCM
+30,Ăn Vặt Hường Mụi - Shop Online,"206/16 Đường Số 20, P. 5, Gò Vấp, TP. HCM",Đã đóng,12.000 - 85.000,HCM
+31,Ròm - Tea & More,"1 Bông Sao, P. 5, Quận 8, TP. HCM",Đã đóng,18.000 - 35.000,HCM
+32,Gióng - Cà Phê - Lý Chính Thắng,"180 - 182 Lý Chính Thắng, P. 9, Quận 3, TP. HCM",Đã đóng,45.000 - 115.000,HCM
+33,Cô Siêu - Hủ Qua Cà Ớt - Shop Online,"258/19 Mai Xuân Thưởng, P. 2, Quận 6, TP. HCM",Đã đóng,6.000 - 60.000,HCM
+34,Vapu Food & More - Ăn Vặt,"819/11/10 Quang Trung, P. 12, Gò Vấp, TP. HCM",Đã đóng,10.000 - 230.000,HCM
+35,Lengkeng - Kem Kẹp Singapore Quận 7,"159 Đường Số 17, P. Tân Quy, Quận 7, TP. HCM",Đã đóng,25.000 - 25.000,HCM
+36,Farine - Bakery & Coffee,"412 Xô Viết Nghệ Tĩnh, P. 25, Bình Thạnh, TP. HCM",Đã đóng,35.000 - 70.000,HCM
+37,Mr.Fresh Coffee,"152 Nguyễn Văn Đậu, P. 7, Bình Thạnh, TP. HCM",Đã đóng,14.000 - 18.000,HCM
+38,Deju - Clean Eating & Fresh Drinking,"31 Đoàn Hồng Phước, P. Hoà Thạnh, Tân Phú, TP. HCM",Đã đóng,19.000 - 35.000,HCM
+39,Tiệm Ngọt - Trà Sữa & Cà Phê - Lâm Văn Bền,"94/8 Lâm Văn Bền, P. Tân Kiểng, Quận 7, TP. HCM",Đã đóng,15.000 - 25.000,HCM
+40,"Rovis - Trà Sữa, Nước Ép & Cafe Nguyên Chất","A1.20 Chung Cư Ruby Celadon, Hương Lộ 3, P. Sơn Kỳ, Tân Phú, TP. HCM",Đã đóng,13.000 - 35.000,HCM
+41,"Al Fresco's - Pizza, Mỳ Ý, Sườn, Steak Bò Bít Tết - Aeon Mall Bình Tân","T1 Tầng 3, Aeon Mall Bình Tân, 1 Đường Số 17A, P. Bình Trị Đông B, Bình Tân, TP. HCM",Đã đóng,80.000 - 695.000,HCM
+42,Lavi Tea - Trà Sữa & Trà,"21B Nguyễn Háo Vĩnh, P. Tân Quý, Tân Phú, TP. HCM",Đã đóng,15.000 - 35.000,HCM
+43,Gần Nhà - Coffee & Tea,"609/29 Lê Quang Định, P. 1, Gò Vấp, TP. HCM",Đã đóng,8.000 - 28.000,HCM
+44,Hồng Thanh - Milk Tea,"86 Nhất Chi Mai, P. 13, Tân Bình, TP. HCM",Đã đóng,10.000 - 25.000,HCM
+45,Bánh Tráng Chị Hạnh,"99/5 Đường Số 41, P. 6, Quận 4, TP. HCM",Đã đóng,5.000 - 35.000,HCM
+46,Pull Tea - Hùng Vương,"99 Hùng Vương, P. 4, Quận 5, TP. HCM",Đã đóng,10.000 - 60.000,HCM
+47,Shop KEM - Bánh Tráng Trộn & Ăn Vặt - Nguyễn Cửu Vân,"75/35 Nguyễn Cửu Vân, P. 17, Bình Thạnh, TP. HCM",Đã đóng,20.000 - 40.000,HCM
+48,Trà Sữa TA - Ngô Tất Tố,"91E Ngô Tất Tố, P. 22, Bình Thạnh, TP. HCM",Đã đóng,25.000 - 50.000,HCM
+49,Vedrenne - Tea & Coffee,"10 Nguyễn Cảnh Dị, P. 4, Tân Bình, TP. HCM",Đã đóng,29.000 - 49.000,HCM
+50,Tiệm Trà Choanh - Shop Online,"Tầng Trệt, Tòa Nhà Park 6B - Vinhomes Central Park, 720A Điện Biên Phủ, P. 22, Bình Thạnh, TP. HCM",Đã đóng,15.000 - 30.000,HCM
+51,Vườn Ẩm Thực 8z - Sinh Tố & Nước Ép,"V40 Nguyễn Hữu Hào, P. 8, Quận 4, TP. HCM",Đã đóng,20.000 - 55.000,HCM
+52,K-Pub - Nướng Phong Cách Pub Hàn Quốc - Phan Xích Long,"133 Phan Xích Long, P. 2, Phú Nhuận, TP. HCM",Đã đóng,150.000 - 200.000,HCM
+53,Bánh Tráng Thảo Nguyên,"433 Phạm Văn Chí, P. 7, Quận 6, TP. HCM",Đã đóng,10.000 - 40.000,HCM
+54,Foodstreet - Đồ Ăn Hàn Quốc & Trà Trái Cây,"214 Quốc Lộ 1K, P. Linh Xuân, Thành Phố Thủ Đức, TP. HCM",Đã đóng,20.000 - 59.000,HCM
+55,1989 - Tiệm Trà Phố,"233 Lê Văn Thọ, P. 9, Gò Vấp, TP. HCM",Đã đóng,12.000 - 55.000,HCM
+56,Yumyumtea - Trà Sữa,"256/51 Phạm Văn Chí, P. 4, Quận 6, TP. HCM",Đã đóng,18.000 - 30.000,HCM
+57,"Trà Sữa, Gà Rán & Thức Ăn Nhanh Ấn Độ","10/19 Đường Số 8, P. Bình Hưng Hòa, Bình Tân, TP. HCM",Đã đóng,15.000 - 25.000,HCM
+58,Ăn Vặt Mèo Lười - Trương Phước Phan,"109/28A Trương Phước Phan, P. Bình Trị Đông, Bình Tân, TP. HCM",Đã đóng,3.000 - 22.000,HCM
+59,Sann Tea - Nguyễn Xuân Ôn,"23 Nguyễn Xuân Ôn, P. 2, Bình Thạnh, TP. HCM",Đã đóng,15.000 - 25.000,HCM
+60,Cơm Ký - Thức Ăn Chế Biến Sẵn,"44/25 Sư Vạn Hạnh, P. 9, Quận 5, TP. HCM",Đã đóng,25.000 - 40.000,HCM
+61,Lạc Coffee & Tea,"1183 Nguyễn Duy Trinh, P. Long Trường, Quận 9, TP. HCM",Đã đóng,10.000 - 60.000,HCM
+62,Vits Up - Sinh Tố & Nước Ép,"212/2A Nguyễn Văn Nguyễn, P. Tân Định, Quận 1, TP. HCM",Đã đóng,20.000 - 50.000,HCM
+63,Quán Cơm Ngân Ký - Dương Bá Trạc,"220 Dương Bá Trạc, P. 2, Quận 8, TP. HCM",Đã đóng,35.000 - 50.000,HCM
+64,B&B Coffee & Tea - Võ Thị Sáu,"14A Võ Thị Sáu, P. Tân Định, Quận 1, TP. HCM",Đã đóng,20.000 - 60.000,HCM
+65,Ball Food - Cá Viên Chiên - Shop Online,"76 Lý Thường Kiệt, P. 7, Gò Vấp, TP. HCM",17:00 - 22:00,20.000 - 60.000,HCM
+66,CB - Coffee & Beer - Nguyễn Văn Đậu,"101/21 Nguyễn Văn Đậu, P. 5, Bình Thạnh, TP. HCM",Đã đóng,20.000 - 30.000,HCM
+67,Sữa Đậu Ula - Shop Online,"534/6C Điện Biên Phủ, P. 21, Bình Thạnh, TP. HCM",Đã đóng,16.000 - 42.000,HCM
+68,Gangnam Topokki Buffet,"714 Sư Vạn Hạnh, P. 12, Quận 10, TP. HCM",Đã đóng,65.000 - 65.000,HCM
+69,Kem Trái Cây Khói - Man Thiện,"209 Man Thiện, P. Hiệp Phú, Quận 9, TP. HCM",Đã đóng,20.000 - 50.000,HCM
+70,"So! Coffee, Sinh Tố & Trà Trái Cây","15 Nguyễn Quý Đức, P. An Phú, Thành Phố Thủ Đức, TP. HCM",Đã đóng,25.000 - 38.000,HCM
+71,Italio - Kem Ý Tự Chọn & Trà Trà Trái Cây,"60C Quang Trung, P. Tăng Nhơn Phú B, Quận 9, TP. HCM",Đã đóng,15.000 - 60.000,HCM
+72,Tiger - Trà Sữa & Trà Trái Cây,"42 Nguyễn Huệ, P. Bến Nghé, Quận 1, TP. HCM",Đã đóng,6.000 - 58.000,HCM
+73,Bà Sẫm - Ăn Vặt,"25/7 Nguyễn Thị Minh Khai, P. Bến Nghé, Quận 1, TP. HCM",Đã đóng,30.000 - 120.000,HCM
+74,VoKa Tea - Trà Trái Cây & Trà Sữa,"215 Lê Hồng Phong, P. 4, Quận 10, TP. HCM",Đã đóng,20.000 - 50.000,HCM
+75,Sinh Tố Honey - Nguyễn Thái Sơn,"332 Nguyễn Thái Sơn, P. 4, Gò Vấp, TP. HCM",Đã đóng,12.000 - 70.000,HCM
+76,Ẩm Thực Ngũ Hành - Nước Sâm Nước Mát & Rau Câu Hoa Quả - Bùi Tư Toàn,"122/7/25A Bùi Tư Toàn, P. An Lạc, Bình Tân, TP. HCM",Đã đóng,23.000 - 38.000,HCM
+77,À Cafe - Bạch Đằng,"A41 Bạch Đằng, P. 2, Tân Bình, TP. HCM",Đã đóng,18.000 - 35.000,HCM
+78,Hamburger & Chicken Rice - Bình Tây,"99/17A Bình Tây, P. 1, Quận 6, TP. HCM",Đã đóng,30.000 - 38.000,HCM
+79,Bosix Chicken,"542 Thống Nhất, P. 16, Gò Vấp, TP. HCM",Đã đóng,7.000 - 25.000,HCM
+80,Haru & Natsu Tea - Phan Huy Ích,"160/35B Phan Huy Ích, P. 12, Gò Vấp, TP. HCM",Đã đóng,19.000 - 19.000,HCM
+81,Cơm Tấm Dì Gái - Trần Xuân Soạn,"67/13 Trần Xuân Soạn, P. Tân Thuận Tây, Quận 7, TP. HCM",Đã đóng,5.000 - 58.000,HCM
+82,Thơm - Bánh Ngon Nhà Làm,"17 Đường Số 3A, P. Bình Hưng Hòa A, Bình Tân, TP. HCM",Đã đóng,80.000 - 125.000,HCM
+83,Trung Thúy - Mì Cay Hàn Quốc - Chung Cư Ẩn Quang,"011 Lô E Chung Cư Ẩn Quang, Vĩnh Viễn, P. 9, Quận 10, TP. HCM",Đã đóng,30.000 - 40.000,HCM
+84,Sài Gòn Ăn Vặt - Vườn Lài,"221/41A Vườn Lài, P. Phú Thọ Hòa, Tân Phú, TP. HCM",Đã đóng,9.000 - 100.000,HCM
+85,Chabi - Cà Ri & Bún Thái,"85A Bùi Đình Túy, P. 24, Bình Thạnh, TP. HCM",Đã đóng,15.000 - 120.000,HCM
+86,Xí Ngầu Food - Món Ngon Nhà Làm,"510 Bùi Minh Trực, P. 6, Quận 8, TP. HCM",Đã đóng,5.000 - 120.000,HCM
+87,A Duỳn - Food & Drink - Shop Online,"185 Cống Quỳnh, P. Nguyễn Cư Trinh, Quận 1, TP. HCM",Đã đóng,5.000 - 30.000,HCM
+88,My Cafe - Trường Chinh,"202-204 Trường Chinh, P. 13, Tân Bình, TP. HCM",Đã đóng,22.000 - 59.000,HCM
+89,ZONE FOOD - Bếp Thượng Hạng - Đường 3 Tháng 2,"1352/1 Đường 3 Tháng 2, P. 2, Quận 11, TP. HCM",Đã đóng,5.000 - 59.000,HCM
+90,Quán Ben - Cơm Trưa Văn Phòng - Shop Online,"373/152/41/6 Lý Thường Kiệt, P. 8, Tân Bình, TP. HCM",Đã đóng,35.000 - 35.000,HCM
+91,Trà Sữa Nọng - Hương Lộ 2,"761 Hương Lộ 2, P. Bình Trị Đông A, Bình Tân, TP. HCM",Đã đóng,24.000 - 24.000,HCM
+92,Nông Trại 89 - Chân Gà Sốt Thái - Shop Online - Nguyễn Thiện Thuật,"242/21/42 Nguyễn Thiện Thuật, P. 3, Quận 3, TP. HCM",Đã đóng,15.000 - 120.000,HCM
+93,Hamburger - Fast Food - Shop Online,"117/1C Bình Quới, P. 27, Bình Thạnh, TP. HCM",Đã đóng,20.000 - 52.000,HCM
+94,Ốc Hồng - Đường Số 7,"42 Đường Số 7, P. Tân Kiểng, Quận 7, TP. HCM",Đã đóng,30.000 - 50.000,HCM
+95,Ngân Tara - Súp Cua,"38 Đường Số 5, P. 6, Quận 8, TP. HCM",Đã đóng,25.000 - 39.000,HCM
+96,Ăn Vặt Cô By - Tàu Hủ Sing & Nước Giải Khát - 36 Đường 295,"36 Đường Số 295, P. Tân Phú, Thành Phố Thủ Đức, TP. HCM",Đã đóng,15.000 - 100.000,HCM
+97,Mẹ Miu Food - Đồ Ăn Vặt,"261/16 Đình Phong Phú, P. Tăng Nhơn Phú B, Quận 9, TP. HCM",Đã đóng,15.000 - 70.000,HCM
+98,Ăn Vặt Ben - Shop Online,"146/39/21 Trương Đăng Quế, P. 3, Gò Vấp, TP. HCM",Đã đóng,20.000 - 150.000,HCM
+99,Bé Diệp - Bánh Xèo Rau Rừng,"455 Phạm Văn Đồng, P. 13, Bình Thạnh, TP. HCM",Đã đóng,7.000 - 50.000,HCM
+100,Lâm - Healthy Food & Cơm Văn Phòng,"55/3 Nguyễn Trọng Tuyển, P. 15, Phú Nhuận, TP. HCM",Đã đóng,50.000 - 50.000,HCM
+101,Mỳ Mix - Trái Cây Sạch & Đồ Ăn Vặt - Shop Online,"263/4 Nguyễn Trãi, P. Nguyễn Cư Trinh, Quận 1, TP. HCM",Đã đóng,15.000 - 35.000,HCM
+102,Pizza Bé Bầu - Đỗ Xuân Hợp,"395A Đỗ Xuân Hợp, P. Phước Long B, Thành Phố Thủ Đức, TP. HCM",00:00 - 23:59,50.000 - 100.000,HCM
+103,Sushi Cô Chủ Hoa Mai 1 - Shop Online,"5C Thanh Niên, X. Xuân Thới Sơn, Bình Chánh, TP. HCM",Đã đóng,20.000 - 150.000,HCM
+104,Châu Linh Trà Sữa Nhà Làm,"12 Nguyễn Tư Giản, P. 12, Gò Vấp, TP. HCM",Đã đóng,20.000 - 25.000,HCM
+105,Cô Lan - Bánh Tráng & Há Cảo,"60/4 Vạn Kiếp, P. 3, Bình Thạnh, TP. HCM",Đã đóng,15.000 - 22.000,HCM
+106,"Thị Đặng - Trà Sữa, Chân Gà Sả Tắc & Trái Cây Gọt Sẵn","355/11 Bến Vân Đồn, P. 1, Quận 4, TP. HCM",Đã đóng,10.000 - 99.000,HCM
+107,Mái Chèo 234 - Hải Sản,"234 Lê Văn Thịnh, P. Cát Lái, Quận 2, TP. HCM",Đã đóng,49.000 - 69.000,HCM
+108,Thanh Châu - Quán Ăn & Giải Khát,"177 Cách Mạng Tháng 8, P. 5, Quận 3, TP. HCM",Đã đóng,5.000 - 46.000,HCM
+109,HN Sea Food - Cơm Ghẹ Phú Quốc - Shop Online,"Block A2 - Chung Cư The Gold View, 346 Bến Vân Đồn, P. 1, Quận 4, TP. HCM",Đã đóng,10.000 - 100.000,HCM
+110,Quán Ốc Bụng Bự,"1B Đường Số 10, Cư Xá Đài Ra Đa, P. 13, Quận 6, TP. HCM",Đã đóng,35.000 - 70.000,HCM
+111,Truly - Coffee Organic - Nguyễn Thái Bình,"268/12 Nguyễn Thái Bình, P. 12, Tân Bình, TP. HCM",Đã đóng,35.000 - 40.000,HCM
+112,Quán Chay 62 - Lý Chính Thắng,"62/113/6 Lý Chính Thắng, P. Võ Thị Sáu, Quận 3, TP. HCM",Đã đóng,30.000 - 50.000,HCM
+113,Bếp Mẹ Síu - Chè Dưỡng Nhan,"41A Rạch Bùng Binh, P. 9, Quận 3, TP. HCM",Đã đóng,15.000 - 35.000,HCM
+114,Xôi Anh Bốn,"13D Tân Kỳ Tân Quý, P. 13, Tân Bình, TP. HCM",Đã đóng,15.000 - 35.000,HCM
+115,Bao Bao - Đồ Ăn Vặt & Nước Uống,"175/5 Võ Văn Tần, P. 5, Quận 3, TP. HCM",Đã đóng,8.000 - 30.000,HCM
+116,Bánh Xèo Giòn Miền Trung,"815 Hương Lộ 2, P. Bình Trị Đông A, Bình Tân, TP. HCM",16:00 - 23:59,7.000 - 30.000,HCM
+117,Trà Sữa Thanh Đa,"206/20 Nguyễn Gia Trí ( Đường D2), P. 25, Bình Thạnh, TP. HCM",Đã đóng,8.000 - 100.000,HCM
+118,Ốc Đêm T3 - Trịnh Đình Thảo,"14 Trịnh Đình Thảo, P. Hòa Thạnh, Tân Phú, TP. HCM",16:00 - 23:59,39.000 - 200.000,HCM
+119,Balun Food,"92/62/24 Xô Viết Nghệ Tĩnh, P. 21, Bình Thạnh, TP. HCM",Đã đóng,25.000 - 49.000,HCM
+120,Ăn Vặt Bé Béo - Đường 34,"Số 2 Đường 34, P. Linh Đông, Thành Phố Thủ Đức, TP. HCM",Đã đóng,10.000 - 30.000,HCM
+121,Cơm Gà Hội An - Trương Quyền,"9/8 Trương Quyền, P. 6, Quận 3, TP. HCM",Đã đóng,20.000 - 65.000,HCM
+122,A Tĩa - Ẩm Thực Trung Hoa,"449/1/1B Hương Lộ 2, P. Bình Trị Đông, Bình Tân, TP. HCM",Đã đóng,15.000 - 70.000,HCM
+123,Chuối Nếp Nướng Miền Tây - Phạm Văn Hai,"126 Phạm Văn Hai, P. 2, Tân Bình, TP. HCM",Đã đóng,10.000 - 20.000,HCM
+124,Hugo - Cafe & Food,"222A Lê Văn Lương, P. Tân Hưng, Quận 7, TP. HCM",Đã đóng,39.000 - 200.000,HCM
+125,Mai Home - Bún Cà Ri Gà - Đường Số 7,"61 Đường Số 7, Xã Bình Hưng, Bình Chánh, TP. HCM",Đã đóng,55.000 - 280.000,HCM
+126,Alo - Coffee & Bánh Mì,"122B Rạch Bùng Binh, P. 9, Quận 3, TP. HCM",Đã đóng,12.000 - 20.000,HCM
+127,Su Su - Cá Viên Chiên - Shop Online,"136/6 Nguyễn Thượng Hiền, P. 1, Gò Vấp, TP. HCM",Đã đóng,5.000 - 125.000,HCM
+128,Dream Coffee Tea - Nguyễn Trãi,"Tầng 1, Tầng 1 Chung cư, 60 Nguyễn Trãi, P. Bến Thành, Quận 1, TP. HCM",Đã đóng,30.000 - 50.000,HCM
+129,Mắm Quê - Ẩm Thực Miền Tây,"60 Phó Đức Chính, P. Nguyễn Thái Bình, Quận 1, TP. HCM",Đã đóng,50.000 - 400.000,HCM
+130,Bánh Mì Chị Mười,"15/20 Đoàn Như Hài, P. 12, Quận 4, TP. HCM",Đã đóng,20.000 - 40.000,HCM
+131,Trang Cộng - Bánh Mì Thịt Nướng - Điện Biên Phủ,"128 Điện Biên Phủ, P. 17, Bình Thạnh, TP. HCM",Đã đóng,25.000 - 55.000,HCM
+132,Mẹ Thỏ - Rau Má Mix,"738 Nguyễn Văn Quá, P. Đông Hưng Thuận, Quận 12, TP. HCM",Đã đóng,10.000 - 25.000,HCM
+133,Jolie - Bakery & Cafe,"290 Nơ Trang Long, P. 12, Bình Thạnh, TP. HCM",Đã đóng,15.000 - 500.000,HCM
+134,"Cô Lan - Sinh Tố, Nước Ép & Trà Đào","644/4/5 Đường 3 Tháng 2, P. 14, Quận 10, TP. HCM",Đã đóng,18.000 - 30.000,HCM
+135,"Trà Đào, Trà Vải & Trà Trái Cây","115/54 Lê Trọng Tấn, P. Sơn Kỳ, Tân Phú, TP. HCM",Đã đóng,25.000 - 30.000,HCM
+136,Anh Hàng Xóm Coffee,"451/2/23 Tô Hiến Thành, P. 14, Quận 10, TP. HCM",Đã đóng,20.000 - 59.000,HCM
+137,Ốc Chun - Ăn Vặt Hà Nội,"Đối Diện MM4 Trường Sơn, Cư Xá Bắc Hải, Đồng Nai, P. 15, Quận 10, TP. HCM",Đã đóng,5.000 - 95.000,HCM
+138,Cô Ba Sài Gòn Detox - Nước Ép & Sinh Tố,"1347 Hoàng Sa, P. 5, Tân Bình, TP. HCM",Đã đóng,25.000 - 43.000,HCM
+139,Cơm Tấm Cô Hai - Nguyễn Văn Nguyễn,"212/299 Nguyễn Văn Nguyễn, P. Tân Định, Quận 1, TP. HCM",Đã đóng,7.000 - 55.000,HCM
+140,Nhà Hàng Hải Sản Hải Châu,"67 Nguyễn Hữu Cảnh, P. 22, Bình Thạnh, TP. HCM",Đã đóng,32.000 - 236.000,HCM
+141,"Rau Má Đậu Xanh, Sinh Tố & Nước Ép 119 - Yersin","119/2 Yersin, P. Phạm Ngũ Lão, Quận 1, TP. HCM",Đã đóng,13.000 - 35.000,HCM
+142,"Robi - Trái Cây, Nước Ép & Đồ Ăn Vặt","12AB Thanh Đa, P. 27, Bình Thạnh, TP. HCM",Đã đóng,1.000 - 200.000,HCM
+143,Vân - Food & Drink,"67 Trúc Đường, P. Thảo Điền, Quận 2, TP. HCM",Đã đóng,15.000 - 150.000,HCM
+144,PM Quán - Trà Sữa & Ăn Vặt,"7 Đường số 7 ( Đối Diện Chung Cư Moonlight), P. An Lạc A, Bình Tân, TP. HCM",Đã đóng,10.000 - 30.000,HCM
+145,Sữa Chua Dẻo Xắt Miếng - Chung Cư Topaz - Shop Online,"A2 Chung Cư Topaz City, 39 Cao Lỗ, P. 4, Quận 8, TP. HCM",Đã đóng,5.000 - 30.000,HCM
+146,Garden - Coffee & Beer,"331 Nguyễn Thượng Hiền, P. 11, Quận 10, TP. HCM",Đã đóng,18.000 - 45.000,HCM
+147,Hai Gầy - Bánh Mì Phá Lấu,"194A Độc Lập, P. Tân Thành, Tân Phú, TP. HCM",Đã đóng,15.000 - 65.000,HCM
+148,Bami HP - Bánh Mì 3 Nhân,"449/38 Lê Văn Việt, P. Tăng Nhơn Phú A, Quận 9, TP. HCM",Đã đóng,15.000 - 35.000,HCM
+149,Tà Tưa - Trà Sữa & Ăn Vặt,"130 Huỳnh Thiện Lộc, P. Hòa Thạnh, Tân Phú, TP. HCM",Đã đóng,10.000 - 30.000,HCM
+150,Tiệm Sữa Chua Pucca - Fresh Yogurt,"2 Đường số 5, P. Linh Trung, Thành Phố Thủ Đức, TP. HCM",Đã đóng,15.000 - 25.000,HCM
+151,"Lynh - Sinh Tố, Nước Ép & Ăn Vặt","487 Lạc Long Quân, P. 5, Quận 11, TP. HCM",Đã đóng,10.000 - 33.000,HCM
+152,Cơm Gà Xối Mỡ - Shop Online - Lê Đức Thọ,"1396/33/33 Lê Đức Thọ, P. 13, Gò Vấp, TP. HCM",Đã đóng,5.000 - 50.000,HCM
+153,Hoàng Diệu - Hủ Tiếu Nam Vang,"523 Lê Văn Thọ, P. 9, Gò Vấp, TP. HCM",Đã đóng,45.000 - 65.000,HCM
+154,Ruby - Bò Lá Lốt & Ăn Vặt,"71/37/4 Điện Biên Phủ, P. 15, Bình Thạnh, TP. HCM",Đã đóng,8.000 - 35.000,HCM
+155,Phở Nhị - Lê Thị Hồng,"32 Lê Thị Hồng, P. 17, Gò Vấp, TP. HCM",Đã đóng,30.000 - 40.000,HCM
+156,Xôi Hoa Thị - Huỳnh Tấn Phát,"615 Huỳnh Tấn Phát, P. Tân Thuận Đông, Quận 7, TP. HCM",Đã đóng,3.000 - 20.000,HCM
+157,Pang Pang - Bánh Tráng & Ăn Vặt,"161D/104/54A Lạc Long Quân, P. 3, Quận 11, TP. HCM",Đã đóng,10.000 - 30.000,HCM
+158,Na Na Tea,"9/35 Võ Trường Toản, P. 2, Bình Thạnh, TP. HCM",Đã đóng,12.000 - 30.000,HCM
+159,"Y Juice - Trà Sữa, Sinh Tố & Nước Ép Trái Cây","382/4 Sư Vạn Hạnh, P. 2, Quận 10, TP. HCM",Đã đóng,8.000 - 35.000,HCM
+160,Duyên Duyên - Thế Giới Mì Trộn Chay,"59/20 Lý Thánh Tông, P. Tân Thới Hòa, Tân Phú, TP. HCM",Đã đóng,12.000 - 200.000,HCM
+161,Quán Anh Bảy - Cháo Lòng & Bánh Hỏi Bình Định - Lạc Long Quân,"6Z Lạc Long Quân, P. 5, Quận 11, TP. HCM",Đã đóng,15.000 - 35.000,HCM
+162,Lucifer Coffee,"20 Đoàn Kết, P. Bình Thọ, Thành Phố Thủ Đức, TP. HCM",Đã đóng,17.000 - 40.000,HCM
+163,Minh Phú Coffee,"26D Đường Số 18B, P. Bình Hưng Hoà A, Bình Tân, TP. HCM",Đã đóng,23.000 - 70.000,HCM
+164,Sữa Chua Trân Châu Cô Thỏ - Bờ Bao Tân Thắng,"E1.24 Chúng Cư Ruby, P. Sơn Kỳ (Đối Diện 175 Bờ Bao Tân Thắng), Tân Phú, TP. HCM",Đã đóng,5.000 - 50.000,HCM
+165,Út Chảnh - Sinh Tố & Nước Ép,"Block A, Chung Cư Âu Cơ Tower, 659 Âu Cơ, P. Tân Thành, Tân Phú, TP. HCM",Đã đóng,28.000 - 30.000,HCM
+166,Quỳnh Anh - Nui Xào & Mì Xào Bò,"43 Đường Số 19, Khu Phố 3, P. Linh Chiểu, Thành Phố Thủ Đức, TP. HCM",Đã đóng,20.000 - 35.000,HCM
+167,Gia Phúc - Bún Bò Huế,"60 Bình Thới, P. 14, Quận 11, TP. HCM",Đã đóng,35.000 - 45.000,HCM
+168,Bánh Canh Nhà Gõ,"1 Đường Số 42, P. Tân Quy, Quận 7, TP. HCM",Đã đóng,10.000 - 55.000,HCM
+169,Bánh Mì Cắt - Bùi Viện,"183/31/4 Bùi Viện, P. Phạm Ngũ Lão, Quận 1, TP. HCM",Đã đóng,13.000 - 130.000,HCM
+170,Lá Chuối Quán - Food & Drink,"9 Nguyễn Đăng Giai, P. Thảo Điền, Quận 2, TP. HCM",Đã đóng,20.000 - 350.000,HCM
+171,"Bánh Mì, Cháo Gà & Ăn Vặt - 3H","273 Khánh Hội, P. 2, Quận 4, TP. HCM",Đã đóng,8.000 - 335.000,HCM
+172,Tivi Home Made - Trà Sữa & Ăn Vặt,"27 Đề Thám, P. Cô Giang, Quận 1, TP. HCM",Đã đóng,15.000 - 30.000,HCM
+173,Ăn Vặt Song Huy,"147B Đường Số 11, P. Trường Thọ, Thành Phố Thủ Đức, TP. HCM",Đã đóng,5.000 - 110.000,HCM
+174,Ốc Phong - Nguyễn Kiệm,"812 Nguyễn Kiệm, P. 3, Gò Vấp, TP. HCM",Đã đóng,30.000 - 60.000,HCM
+175,Sinh Tố - Nước Ép & Ăn Vặt Lido Food,"26A/22 Lạc Long Quân, P. 3, Quận 11, TP. HCM",Đã đóng,12.000 - 50.000,HCM
