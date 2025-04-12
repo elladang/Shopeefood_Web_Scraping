@@ -21,7 +21,7 @@ This project focuses on collecting and organizing data from ShopeeFood with the 
 
 - **Python 3.x** – core programming language
 - **Requests** – for sending HTTP requests
-- **BeautifulSoup (bs4)** – for parsing HTML content
+- **Selenium**
 - **Pandas** – for processing and exporting structured data
 - **JSON / CSV** – for storing results
 - **Time / Random** – for delay logic to avoid getting blocked
